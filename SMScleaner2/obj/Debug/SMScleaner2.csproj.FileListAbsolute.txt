@@ -1,0 +1,7 @@
+C:\G\Project\VisualStudio\SMScleaner2\SMScleaner2\bin\Debug\SMScleaner2.exe.config
+C:\G\Project\VisualStudio\SMScleaner2\SMScleaner2\bin\Debug\SMScleaner2.exe
+C:\G\Project\VisualStudio\SMScleaner2\SMScleaner2\bin\Debug\SMScleaner2.pdb
+C:\G\Project\VisualStudio\SMScleaner2\SMScleaner2\obj\Debug\SMScleaner2.csprojAssemblyReference.cache
+C:\G\Project\VisualStudio\SMScleaner2\SMScleaner2\obj\Debug\SMScleaner2.csproj.CoreCompileInputs.cache
+C:\G\Project\VisualStudio\SMScleaner2\SMScleaner2\obj\Debug\SMScleaner2.exe
+C:\G\Project\VisualStudio\SMScleaner2\SMScleaner2\obj\Debug\SMScleaner2.pdb
